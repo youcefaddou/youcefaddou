@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since January 2025<br><br>🎯 Goals: Be able to learn multiple techs and combine them to create amazing apps in divers fields.<br><br>🎲 Fun fact: Did you know? The name “JavaScript” was actually chosen for marketing reasons, and the language has almost nothing to do with Java! Its original name was “Mocha,” then “LiveScript,” before finally becoming JavaScript.</h4>
+<h4 align="left">✨ Creating bugs since January 2025<br><br>🎯 Goals: Be able to learn multiple techs and combine them to create amazing apps in diverse fields !<br><br>🎲 Fun fact: Did you know? The name “JavaScript” was actually chosen for marketing reasons, and the language has almost nothing to do with Java! Its original name was “Mocha,” then “LiveScript,” before finally becoming JavaScript.</h4>
 
 ###
 
