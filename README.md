@@ -3,7 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youcefaddou&label=Profile%20views&color=0e75b6&style=flat" alt="youcefaddou" /> </p>
 
-- 🌱 I’m currently learning **Data clusters**
+- 🌱 I'm currently diving deep into Cloud Infrastructure, Kubernetes, and Data Engineering — always curious, always learning new skills and combining them to build cool stuff.
+
+I love turning complex architectures into clean, automated solutions. ☁️⚙️
+
+✨ Creating bugs since January 2025
+🎯 Goals: Master Cloud, DevOps & Data Engineering to build impactful products
+🔭 Currently working with: Azure, Kubernetes, Terraform, Istio, and the Grafana observability stack
+🧠 Always curious about: new techs, distributed systems, and data pipelines
+🎲 Fun fact: "JavaScript" was chosen for marketing reasons — it has almost nothing to do with Java!
+                Its original name was "Mocha", then "LiveScript". 
 
 - 👨‍💻 All of my projects are available in [https://github.com/youcefaddou/youcefaddou](https://github.com/youcefaddou/youcefaddou)
 
