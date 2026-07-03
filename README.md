@@ -14,7 +14,7 @@ I love turning complex architectures into clean, automated solutions. ☁️⚙�
 🎲 Fun fact: "JavaScript" was chosen for marketing reasons — it has almost nothing to do with Java!
                 Its original name was "Mocha", then "LiveScript". 
 
-- 👨‍💻 All of my projects are available in [https://github.com/youcefaddou/youcefaddou]
+- 👨‍💻 All of my projects are available in [https://github.com/youcefaddou]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
