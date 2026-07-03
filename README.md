@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youcefaddou&label=Profile%20views&color=0e75b6&style=flat" alt="youcefaddou" /> </p>
 
-- 🌱 I'm currently diving deep into Cloud Infrastructure, Kubernetes, and Data Engineering — always curious, always learning new skills and combining them to build cool stuff.
+🌱 I'm currently diving deep into Cloud Infrastructure, Kubernetes, and Data Engineering — always curious, always learning new skills and combining them to build cool stuff.
 
 I love turning complex architectures into clean, automated solutions. ☁️⚙️
 
